@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiaozhulvxing.iml" filepath="$PROJECT_DIR$/.idea/xiaozhulvxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-commons/xzlx-commons.iml" filepath="$PROJECT_DIR$/xzlx-commons/xzlx-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-dependencies/xzlx-dependencies.iml" filepath="$PROJECT_DIR$/xzlx-dependencies/xzlx-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-domain/xzlx-domain.iml" filepath="$PROJECT_DIR$/xzlx-domain/xzlx-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-web-admin/xzlx-web-admin.iml" filepath="$PROJECT_DIR$/xzlx-web-admin/xzlx-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-web-api/xzlx-web-api.iml" filepath="$PROJECT_DIR$/xzlx-web-api/xzlx-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzlx-web-ui/xzlx-web-ui.iml" filepath="$PROJECT_DIR$/xzlx-web-ui/xzlx-web-ui.iml" />
+    </modules>
+  </component>
+</project>

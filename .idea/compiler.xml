@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xzlx-commons" />
+        <module name="xzlx-domain" />
+        <module name="xzlx-web-admin" />
+        <module name="xzlx-web-api" />
+        <module name="xzlx-web-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="my-shop-web-api" target="1.8" />
+      <module name="xiaozhulvxing" target="1.5" />
+      <module name="xzlx-commons" target="1.8" />
+      <module name="xzlx-dependencies" target="1.8" />
+      <module name="xzlx-domain" target="1.8" />
+      <module name="xzlx-web-admin" target="1.8" />
+      <module name="xzlx-web-api" target="1.8" />
+      <module name="xzlx-web-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
