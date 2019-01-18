@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca30ef5d-f2ca-4b19-88bd-edf7fb111404" name="Default Changelist" comment="" />
+    <list default="true" id="ca30ef5d-f2ca-4b19-88bd-edf7fb111404" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzlx-web-api/src/java/com/xzlx/web/api/dao/TbUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzlx-web-api/src/java/com/xzlx/web/api/service/TbUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzlx-web-api/src/java/com/xzlx/web/api/service/impl/TbUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xzlx-web-api/src/java/com/xzlx/web/api/web/controller/TbUserController.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/xiaozhulvxing-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/xzlx-dependencies/target/" />
@@ -56,6 +62,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1546895956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -72,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/xzlx-commons/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2210">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
         </entry>
@@ -89,7 +103,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/RegexpUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
+            <state relative-caret-position="26">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -127,13 +141,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/HttpClientUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2082">
+            <state relative-caret-position="182">
               <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,7 +221,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="73" />
     <option name="y" value="111" />
     <option name="width" value="1667" />
@@ -215,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,24 +285,39 @@
               <item name="xiaozhulvxing" type="462c0819:PsiDirectoryNode" />
               <item name="xzlx-web-api" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xiaozhulvxing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaozhulvxing" type="462c0819:PsiDirectoryNode" />
+              <item name="xzlx-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiaozhulvxing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiaozhulvxing" type="462c0819:PsiDirectoryNode" />
+              <item name="xzlx-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547783776206" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547783883722" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xiaozhulvxing\xzlx-web-api\src\main" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Program Files\xiaozhulvxing\xzlx-commons\src\main\java\com\xzlx\commons\util" />
       <recent name="D:\Program Files\xiaozhulvxing\xzlx-domain\src\main\java\com\xzlx\domain" />
@@ -317,16 +350,17 @@
       <updated>1547715455017</updated>
       <workItem from="1547715457054" duration="5364000" />
       <workItem from="1547775956563" duration="2159000" />
+      <workItem from="1547783700491" duration="184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7523000" />
+    <option name="totallyTimeSpent" value="7707000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,7 +387,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.22921109" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.19083156" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -462,9 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#945#968#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,13 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbStrategyWithBLOBs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbStrategyWithBLOBs.java" />
     <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbHotelInstallation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -565,13 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbTravelWithBLOBs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbTravelWithBLOBs.java" />
     <entry file="file://$PROJECT_DIR$/xzlx-domain/src/main/java/com/xzlx/domain/TbTravel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="818">
@@ -589,7 +608,14 @@
     <entry file="file://$PROJECT_DIR$/xzlx-commons/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2210">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/MapperUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -605,20 +631,6 @@
     <entry file="file://$PROJECT_DIR$/xzlx-web-api/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/HttpClientUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2082">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/MapperUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/ConstantUitls.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -626,9 +638,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xzlx-commons/src/main/java/com/xzlx/commons/util/RegexpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
+        <state relative-caret-position="26">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
